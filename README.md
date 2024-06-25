@@ -3,7 +3,7 @@ DiffSynth Studio is a Diffusion engine. We have restructured architectures inclu
 
 ## Installation
 ```
-git clone https://github.com/Agoooy
+git clone https://github.com/Agoooy/AI-Video/
 cd DiffSynth-Studio
 pip install -e .
 ```
